@@ -14,6 +14,7 @@ class DemoApplicationTests {
 		log.info("************In develop branch************");
 		log.info("************In feature branch updated some app level code ************");
 		log.info("**********Release1.0 branch have added new features");
+		log.info("There bug in application so hotfix branch cut off from master and fixed the bug");
 	}
 
 }
