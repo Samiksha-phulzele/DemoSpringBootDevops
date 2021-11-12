@@ -11,6 +11,7 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 		log.info("************In master branch************");
+		log.info("************In develop branch************");
 	}
 
 }
