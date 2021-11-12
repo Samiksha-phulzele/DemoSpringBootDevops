@@ -12,6 +12,8 @@ class DemoApplicationTests {
 	void contextLoads() {
 		log.info("************In master branch************");
 		log.info("************In develop branch************");
+		log.info("************In feature branch updated some app level code ************");
+		log.info("**********Release1.0 branch have added new features");
 	}
 
 }
